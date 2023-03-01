@@ -1,5 +1,14 @@
 # react-native-searchable-animated-dropdown
 
+
+
+
+
+https://user-images.githubusercontent.com/76813201/222146478-11cb4f2d-c740-411a-9a5a-cd012f5882c7.mp4
+
+
+
+
 This library will take array as input and create a dropdown based on it.
 More details and properties below:
 
